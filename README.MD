@@ -1,0 +1,1 @@
+Native opencart application. We provide the UI that you can freely modify and distribute to your clients. The backend bindings are paid.
